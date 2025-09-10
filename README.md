@@ -1,8 +1,5 @@
-﻿# NeoBit
+﻿### NeoBit
 
-## testing
-
-1. ho
-
-2. la
-3. aloi
+## 11/9
+1. changed background image
+2. changed copyrights (NeoBit)

@@ -73,8 +73,17 @@ p {
 
 .tm-site-header {
   margin: 10px;
-  text-align: right;
+  text-align: left;
   width: 100%;
+}
+.tm-site-header a {
+  color: white;            /* default link color */
+  text-decoration: none; 
+  text-decoration: underline;  /* optional: removes underline */
+}
+
+.tm-site-header a:hover {
+  color: grey;             /* color when hovered */
 }
 
 .tm-nav ul {
